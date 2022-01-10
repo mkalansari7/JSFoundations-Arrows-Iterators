@@ -5,7 +5,7 @@
  * - Logs every element of the array
  ************************************/
 const logger = (array) => array.forEach(element => {
-    console.log(`${element}`);
+    console.log(element);
 });
 
 
